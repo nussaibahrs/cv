@@ -1,0 +1,24 @@
+# Service
+
+## Administrative
+
+```{r admin}
+ezpickr::pick("data/service.xlsx") %>%
+filter(category == "admin") %>% 
+  vitae::brief_entries(what, when, where)
+```
+## Professional Societies and Conferences
+
+```{r service}
+ezpickr::pick("data/service.xlsx") %>%
+filter(category == "professional") %>% 
+  vitae::brief_entries(what, when, where)
+```
+
+## Journals reviewed
+```{r journals, results='asis'}
+journals <- ezpickr::pick("data/service.xlsx") %>%
+filter(category == "journal")
+
+cat(paste(paste("*", journals$where), collapse="\n"))
+```

@@ -1,0 +1,41 @@
+# Publications
+
+<!-- ## Selected Publications
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_selected}
+:::
+\endgroup -->
+
+## Refereed Journal Papers
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_selected}
+:::
+\endgroup
+
+## Preprints
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_preprints}
+:::
+\endgroup 
+
+## Working Papers in preparation, under Revision or Review
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+::: {#refs_working_paper}
+:::
+\endgroup 

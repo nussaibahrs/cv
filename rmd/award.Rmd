@@ -1,0 +1,6 @@
+# Awards and Honors
+
+```{r award}
+ezpickr::pick("data/award.xlsx") %>%
+  vitae::brief_entries(award, year, from)
+```

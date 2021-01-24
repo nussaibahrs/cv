@@ -1,0 +1,20 @@
+\renewenvironment{cvhonors}{%
+\vspace{\acvSectionContentTopSkip}
+\vspace{-2mm}
+\begin{center}
+\setlength\tabcolsep{0pt}
+\setlength{\extrarowheight}{0pt}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} R{2cm} L{\textwidth - 8.0cm} R{5cm}}
+}{%
+\end{tabular*}
+\end{center}
+}
+
+% make dates bold
+\renewcommand*{\honordatestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+
+% Define a line of cv information(honor, award or something else)
+% Usage: \cvhonor{<position>}{<title>}{<location>}{<date>}
+\renewcommand*{\cvhonor}[4]{%
+\honordatestyle{#4} & \honorpositionstyle{#1} \honortitlestyle{#2} &    \honorlocationstyle{#3} \\
+}

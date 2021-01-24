@@ -1,0 +1,34 @@
+---
+graphics: yes
+name: Nussaïbah B.
+surname: Raja-Schoob
+#headcolor: 414141
+#qualifications: 
+position: "Ph.D. Candidate"
+address: "Trebnitzer Str. 68, 90473 Nürnberg"
+#phone: "+1 814-777-5825"
+#www: "https://nussaibahrs.github.io/"
+email: "nussaibah.raja.schoob@fau.de"
+twitter: mauritiantales
+github: nussaibahrs
+#linkedin: jooyoungseo
+aboutme: |
+  I am a researcher in paleontology working on understanding the impact of environmental change on marine ecosystems on geological time scales. My focus is on reef-building organisms and their response to warming ocean temperatures. 
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+csl: "csl/apa6-cv.csl"
+nocite: "@*"
+knit: bookdown::render_book
+bibliography_selected: "bib/selected.bib"
+bibliography_proceedings: "bib/proceedings.bib"
+bibliography_working_paper: "bib/working_paper.bib"
+bibliography_preprints: "bib/preprints.bib"
+bibliography_R_packages: "bib/R_packages.bib"
+---
+
+```{r setup, include=FALSE, cache = FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tidyverse)
+library(ezpickr)
+```

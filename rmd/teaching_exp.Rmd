@@ -1,0 +1,36 @@
+# Teaching Experience
+
+## List of courses
+
+\begin{cvskills}
+\cvskill
+{Introduction to R}
+{All levels. Basic data structures and control flows of the R programming language.}
+
+\cvskill
+{Analytical Paleobiology}
+{Masters Level. Foundational and cutting-edge analytical methods in Palaeontology with a focus on R.}
+
+\cvskill
+{Programming \& Statistics}
+{Masters Level. Advanced statistical and analytical methods in Paleontology with a focus on R}
+
+\end{cvskills}
+
+## Co-Supervision of students
+
+\begin{cvskills}
+\cvskill
+{Master's thesis}
+{\textbf{1} student with Prof. Wolfgang Kiessling}
+
+\cvskill
+{Other Master's Research Projects}
+{\textbf{2} students with Prof. Wolfgang Kiessling, \textbf{1} student with Dr. Kenneth De Baets}
+
+\cvskill
+{Bachelor's Thesis}
+{\textbf{1} student with Dr. Kenneth De Baets}
+
+\end{cvskills}
+

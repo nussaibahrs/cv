@@ -19,7 +19,7 @@ csl: "csl/apa6-cv.csl"
 nocite: "@*"
 knit: bookdown::render_book
 bibliography_selected: "bib/selected.bib"
-bibliography_proceedings: "bib/proceedings.bib"
+# bibliography_proceedings: "bib/proceedings.bib"
 bibliography_working_paper: "bib/working_paper.bib"
 bibliography_preprints: "bib/preprints.bib"
 bibliography_R_packages: "bib/R_packages.bib"

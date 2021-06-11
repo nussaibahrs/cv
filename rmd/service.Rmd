@@ -15,6 +15,21 @@ filter(category == "professional") %>%
   vitae::brief_entries(what, when, where)
 ```
 
+## Outreach
+```{r outreach}
+ezpickr::pick("data/service.xlsx") %>%
+filter(category == "outreach") %>% 
+  vitae::brief_entries(what, when, where)
+```
+
+## Interest in the media
+```{r media}
+read.csv("data/service.csv", encoding = "UTF-8") %>%
+	setNames(c("what", "when", "where", "category")) %>% 
+filter(category == "media") %>% 
+  vitae::brief_entries(what, when, where)
+```
+
 ## Journals reviewed
 ```{r journals, results='asis'}
 journals <- ezpickr::pick("data/service.xlsx") %>%

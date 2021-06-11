@@ -1,17 +1,9 @@
-Seo, J., & Richard, G. T. (2020, April). *Maker inclusivity = maker accessibility: further interrogations for diverse participation*. Poster presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA.
+\textbf{Raja, N. B.}, Lauchstedt, A., Pandolfi, J. M., Kim, S., Budd, A. F., & Kiessling, W. (2020, October). Mismatches of threat status and actual extinctions in Quaternary reef corals. GSA Connects Online.
 
-Seo, J., & Richard, G. T. (2018, April). *Furthering inclusivity in making: a framework for accessible design of makerspaces for learners with disabilities*. Poster presented at the annual meeting of the American Educational Research Association (AERA), New York City, NY.
+\textbf{Raja, N. B.}, Dunne, E., Khan, T., & Nätscher, P. (2020, October). The overlooked realities of sampling bias. GSA Connects Online. 
 
-Bunag, T., Aniela, L., Nielsen, M. C., & Seo, J. (2017, November). *The rapidly changing world of accessible online learning*. Presented at the Panel Discussion: DDL - Accessible Online Learning In Concurrent Presentation of the Association for Educational Communications and Technology (AECT), Jacsonville, FL.
+\textbf{Raja, N. B.}, & Kiessling, W. (2019a, September). Origination and dispersal dynamics of Cenozoic marine plankton. Annual Meeting of the Paleontological Society (Paläontologische Gesellschaft), Munich, Germany.
 
-Seo, J. (2017, September). *Tactile access to visualized statistical data using R*. Poster presented at the annual meeting of the ACM Richard Tapia Celebration of Diversity in Computing, Atlanta, GA.
+\textbf{Raja, N. B.}, & Kiessling, W. (2019b, September). Revisiting the long-term biodiversity dynamics of reef builders in a novel Bayesian frame- work. In: 13th International Symposium on Fossil Cnidaria and Porifera, Modena, Italy.
 
-Liao, J., Patcyk, M., Seo, J., & Hooper, S. (2016, October). *Using hierarchical linear modeling to measure growth rate in a gamified CBM environment*. Paper presented at the annual meeting of the Northeastern Educational Research Association (NERA), Trumbull, CT.
-
-Seo, J. (2016, March). *Engaging blind learners in statistics study using R*. Presented at the annual meeting of the Teaching and Learning with Technology (TLT) Symposium, University Park, PA.
-
-Kim, K., Seo, J., & Clariana, R. B. (2016, March). *Automatic knowledge structure measure in online courses*. Presented at the annual meeting of the Teaching and Learning with Technology (TLT) Symposium, University Park, PA.
-
-Seo, J. (2015, November). *Assistive technologies for equal access in general education*. Presented at the annual meeting of the Association for Educational Communications and Technology (AECT), Indianapolis, IN.
-
-Seo, J., & Park, E. (2015, October). *The more accessible, the more potential: simple tips for online accessibility*. Presented at the Technology and Learning Conference, Blue Bell, PA.
+\textbf{Raja, N. B.}, Steinbauer, M. J., & Kiessling, W. (2018, August). Spatiotemporal niche dynamics of marine organisms through deep-time. Crossing the Palaeontological – Ecological Gap, Leeds, UK.

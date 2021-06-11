@@ -1,6 +1,6 @@
 # Presentations
 
-## Peer-Reviewed Conference Presentations
+## Conference Presentations
 
 \begingroup
 \setlength{\parindent}{-0.5in}
